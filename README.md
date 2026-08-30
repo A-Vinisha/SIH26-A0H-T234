@@ -32,9 +32,9 @@
 #### PS#1
 
 * **Problem Statement ID: SIH26092**
-* **Problem Statement Title: AI-Driven Scheme Matching for Marginalized Entrepreneurs **
-* **Theme / Category: Smart Automation  **
-* **Ministry / Organization: Ministry of Social Justice and Empowerment (MoSJE)**, wherever applicable
+* **Problem Statement Title: AI-Driven Scheme Matching for Marginalized Entrepreneurs**
+* **Theme / Category: Smart Automation**
+* **Ministry / Organization: Ministry of Social Justice and Empowerment (MoSJE)**
 
 #### PS#2
 
