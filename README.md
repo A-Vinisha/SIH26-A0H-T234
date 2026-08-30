@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26091**
+* **Problem Statement Title:AI-Driven Hyper-Local Business Advisory And Financial Structuring Assistant for Rural Micro-Entrepreneurs**
+* **Theme / Category:Agriculture,FoodTech & Rural Development**
+* **Ministry / Organization:Ministry of Social Justice and Empowerment (MoSJE)**
